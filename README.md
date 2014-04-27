@@ -3,7 +3,7 @@
 
 After loading the dataset according to the instruction of Peer Assignment description on Course Getting and Cleaning Data, run this script, this program cleans the dataset by doing the following:
 
-  1.Reads-in the feature.txt file (which contains the names of the variables) and stores it as feature
+	1.Reads-in the feature.txt file (which contains the names of the variables) and stores it as feature
 	2.Selects the names in feature which are either a mean or a standard deviation and stores their positions in colneeded
 	3.Using the colneeded vector, run_analysis.R creates a vector comprised of "NULL"s and "numeric"s based on which columns we will want to ignore or read-in respectively
 	4.Stores the data we want from the test data using the read.table function and the colClasses specification
