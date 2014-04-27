@@ -1,7 +1,7 @@
 ##Getting-and-Cleaning-Data
 =========================
 
-After loading the dataset according to the instruction of Peer Assignment description on Course Getting and Cleaning Data, run this script, this program cleans the dataset by doing the following:
+#After loading the dataset according to the instruction of Peer Assignment description on Course Getting and Cleaning #Data, run this script, this program cleans the dataset by doing the following:
 
 	1.Reads-in the feature.txt file (which contains the names of the variables) and stores it as feature
 	2.Selects the names in feature which are either a mean or a standard deviation and stores their positions in colneeded
